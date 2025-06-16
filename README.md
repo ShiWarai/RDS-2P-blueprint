@@ -5,4 +5,4 @@
 
 ![panda_photo.jpg](./panda_photo.jpg)
 
-Версия T-Flex CAD: 17.1.10.0
+Версия T-Flex CAD: 17.1.33.0
